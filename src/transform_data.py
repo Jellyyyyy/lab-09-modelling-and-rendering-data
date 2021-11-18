@@ -2,7 +2,7 @@
 # Setting environment variable. NOTE: This is not a production-safe practice.
 # This is only acceptable because this is a lab.
 import os
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/mjumbewu/.google-cloud/musa-509-2021-82382711a91a.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '//c/Users/yaoyu/musa509-0829-1d970995ed94.json'
 #####
 
 from pathlib import Path
